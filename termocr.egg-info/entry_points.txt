@@ -1,0 +1,2 @@
+[console_scripts]
+termocr = termocr.main:main

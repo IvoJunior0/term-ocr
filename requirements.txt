@@ -1,0 +1,10 @@
+certifi==2026.2.25
+charset-normalizer==3.4.7
+idna==3.11
+langdetect==1.0.9
+packaging==26.0
+pillow==12.2.0
+pytesseract==0.3.13
+requests==2.33.1
+six==1.17.0
+urllib3==2.6.3

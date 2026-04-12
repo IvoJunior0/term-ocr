@@ -1,0 +1,13 @@
+[project]
+name = "termocr"
+version = "1.0.0"
+description = "CLI de OCR via terminal"
+authors = [{name = "Ivo Junior"}]
+dependencies = [
+    "pytesseract",
+    "pillow",
+    "requests"
+]
+
+[project.scripts]
+termocr = "termocr.main:main"

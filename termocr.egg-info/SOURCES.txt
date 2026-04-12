@@ -1,0 +1,16 @@
+pyproject.toml
+termocr/__init__.py
+termocr/main.py
+termocr.egg-info/PKG-INFO
+termocr.egg-info/SOURCES.txt
+termocr.egg-info/dependency_links.txt
+termocr.egg-info/entry_points.txt
+termocr.egg-info/requires.txt
+termocr.egg-info/top_level.txt
+termocr/cli/args.py
+termocr/core/clipboard.py
+termocr/core/io.py
+termocr/core/ocr.py
+termocr/core/source.py
+termocr/core/url.py
+termocr/utils/banner.py
