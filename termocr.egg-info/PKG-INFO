@@ -1,8 +1,0 @@
-Metadata-Version: 2.4
-Name: termocr
-Version: 1.0.0
-Summary: CLI de OCR via terminal
-Author: Ivo Junior
-Requires-Dist: pytesseract
-Requires-Dist: pillow
-Requires-Dist: requests
