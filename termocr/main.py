@@ -11,13 +11,13 @@ def main():
         return
     try:
         args = get_args()
-        
+
         image = get_input_source(args)
         if image is None:
             return
-        
+
         text = extract_text(image, args.lang).strip()
-        
+
         print(text)
 
         if args.output:
